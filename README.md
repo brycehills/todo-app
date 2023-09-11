@@ -46,10 +46,6 @@
 <img src="/ss/1.jpg" alt="alt text" width="700" height="500">  
 
 
-## Authors
-
-Bryce Hills  
-
 
 ## Acknowledgments
 
