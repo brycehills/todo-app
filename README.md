@@ -2,7 +2,7 @@
 
 - A simple full-stack app built with React, Node.js, Express.js and Postgres.
 - Utilizes PostGres for database & Nodejs for the backend
-- Utilizes React for frotend
+- Utilizes React for frontend - Styling with standard CSS
 
 ## Description
 
