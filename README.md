@@ -41,9 +41,9 @@
 ```
 
 ### ScreenShots
-<img src="/ss/3.png" alt="alt text" width="1000" height="600">  
-<img src="/ss/2.png" alt="alt text" width="1000" height="600">  
-<img src="/ss/1.jpg" alt="alt text" width="1000" height="600">  
+<img src="/ss/3.png" alt="alt text" width="700" height="500">  
+<img src="/ss/2.png" alt="alt text" width="700" height="500">  
+<img src="/ss/1.jpg" alt="alt text" width="700" height="500">  
 
 
 ## Authors
